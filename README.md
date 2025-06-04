@@ -1,1 +1,1 @@
-# cpp-lanka1
+# cpp-labka1
